@@ -1,0 +1,16 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MonopolyStock/FileContentIndex
+/MonopolyStock/bin/Debug/net8.0
+/MonopolyStock/obj
+/StockBusinessLogic/bin/Debug/net8.0
+/StockBusinessLogic/obj
+*.csproj
+/StockCommonUtils/bin/Debug/net8.0
+/StockCommonUtils/obj
+/StockCore/bin/Debug/net8.0
+/StockCore/obj
+/StockDataAccess/bin/Debug/net8.0
+/StockDataAccess/obj
